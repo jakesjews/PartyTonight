@@ -21,6 +21,21 @@
           <email>jakesjews@gmail.com</email>
         </configuration>
       </facet>
+      <facet type="google-app-engine" name="Google App Engine2">
+        <configuration>
+          <sdk-home-path>/usr/local/Cellar/app-engine-java-sdk/1.6.6/libexec</sdk-home-path>
+        </configuration>
+      </facet>
+    </facet>
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
