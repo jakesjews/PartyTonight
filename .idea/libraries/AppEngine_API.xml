@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AppEngine API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/app-engine-sdk/appengine-api-1.0-sdk-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/app-engine-sdk/appengine-api-labs-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/app-engine-sdk/appengine-jsr107cache-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/app-engine-sdk/jsr107cache-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

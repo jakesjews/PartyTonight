@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="2496C53704909A5126B969B9B4C1610B" />
+  <component name="JSHintConfiguration">
+    <option bitwise="true" />
+    <option curly="true" />
+    <option noarg="true" />
+    <option forin="true" />
+    <option strict="true" />
+    <option noempty="true" />
+    <option undef="true" />
+    <option eqeqeq="true" />
+    <option nonew="true" />
+    <option browser="true" />
+    <option indent="4" />
+    <option maxerr="50" />
+  </component>
+  <component name="JSLintConfiguration">
+    <option indent="4" />
+    <option maxerr="50" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectResources">
+    <default-html-doctype>$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5.rnc</default-html-doctype>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
+
