@@ -14,28 +14,13 @@
         <configuration>
           <password>dfe0dfc0df9bdf99df9bdf9bdf99df9adf9bdf99df8b</password>
           <files-to-enhance>
-            <file path="$MODULE_DIR$/src/com/immersiveapplications/partytonight/Party.java" />
+            <file path="$MODULE_DIR$/src" />
           </files-to-enhance>
           <run-enhancer-on-make>true</run-enhancer-on-make>
-          <sdk-home-path>/usr/local/Cellar/app-engine-java-sdk/1.6.6/libexec</sdk-home-path>
+          <sdk-home-path>/usr/local/Cellar/app-engine-java-sdk/1.7.2/libexec</sdk-home-path>
           <email>jakesjews@gmail.com</email>
         </configuration>
       </facet>
-      <facet type="google-app-engine" name="Google App Engine2">
-        <configuration>
-          <sdk-home-path>/usr/local/Cellar/app-engine-java-sdk/1.6.6/libexec</sdk-home-path>
-        </configuration>
-      </facet>
-    </facet>
-    <facet type="web" name="Web2">
-      <configuration>
-        <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
-        </descriptors>
-        <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/" />
-        </webroots>
-      </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -43,13 +28,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="AppEngine API" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
     <orderEntry type="library" name="AppEngine ORM" level="project" />
-    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
-    <orderEntry type="library" name="geocell0.7" level="project" />
-    <orderEntry type="library" name="org.apache.commons:com.springsource.org.apache.commons.lang:2.5.0" level="project" />
+    <orderEntry type="library" name="AppEngine API" level="project" />
   </component>
 </module>
 
