@@ -2,3 +2,6 @@
 *.swp
 *.tmp
 out/
+*.iwd
+workspace.xml
+tasks.xml
